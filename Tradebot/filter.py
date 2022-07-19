@@ -1,1 +1,0 @@
-# Filters the anayltics from yahoo finance
