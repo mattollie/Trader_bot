@@ -3,7 +3,7 @@ import pandas as pd
 
 
 def login():
-    rs.login("HankGullick", "PureAlpha8582519")
+    rs.login("*** "***")
 
 
 def getprofile():
