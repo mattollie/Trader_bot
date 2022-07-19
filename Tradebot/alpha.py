@@ -137,7 +137,7 @@ def get_support_line(api_key, ticks):
 
 
 def main():
-    api_key = 'WC6IC1CK6087CIV7'
+    api_key = '***'
     top5_tickers = gettickers()
     daily_Data = get_daily(api_key, top5_tickers)
     minimaIdxs, maximaIdxs = trend_lines(True)
