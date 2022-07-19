@@ -5,11 +5,11 @@ import praw
 
 
 def getphrases():
-    reddit = praw.Reddit(client_id='c1OQPt7v_0Qzcg',
-                             client_secret='Enbz2O8IO3JR7bMhoi-j3WZU0aE',
-                             password='goskins1',
-                             user_agent='WSB_script by /u/mhg3',
-                             username='mhg3')
+    reddit = praw.Reddit(client_id='****',
+                             client_secret='***',
+                             password='***',
+                             user_agent='***',
+                             username='***')
 
     subredditname = reddit.subreddit('wallstreetbets')
 
